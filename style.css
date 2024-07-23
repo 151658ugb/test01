@@ -1,0 +1,22 @@
+body {
+  background-image: url(me06.jpg);
+  background-size: cover;
+  font-family: 'Papyrus';
+}
+
+h1 {
+  margin-top: 150px;
+  margin-left: 100px;
+  font-size: 130px;
+  color: #fff8f0;
+}
+
+.nicname {
+  font-size: 80px;
+}
+
+a {
+  margin-left: 500px;
+  color: #fff8f0;
+  font-size: 30px;
+}
